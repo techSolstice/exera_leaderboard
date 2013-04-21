@@ -1,0 +1,14 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.techsolstice.ruedas</groupId>
+  <artifactId>exeraLeaderboard</artifactId>
+  <version>0.1.0</version>
+  
+  <dependencies>
+  <dependency>
+    <groupId>com.amazonaws</groupId>
+    <artifactId>aws-java-sdk</artifactId>
+    <version>1.4.2</version>
+  </dependency>
+  </dependencies>
+</project>
